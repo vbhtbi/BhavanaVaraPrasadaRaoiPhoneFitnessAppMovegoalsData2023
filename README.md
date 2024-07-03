@@ -18,4 +18,4 @@ Following other milestones were achieved during completion of year (2023) long g
 
 *** Left foot & Ligaments were broken in a road accident in September 2020 and went for surgery. Took 6 months to walk without walker support and took 12 months to jog & run.
 
-With Bhavana Vara Prasada Rao iPhone Fitness App Move goals Data 2023, worked on this project to prepare trend analysis by using pandas, plotly, Regression Metrics, Linear Regression Model (Machine Learning) by using Scikit Learn & Sequential Model (Neural Networks), Regeression Metrics, Predictions by using NumPy, Matplotlib, Tensorflow, Keras Python packages.
+With Bhavana Vara Prasada Rao iPhone Fitness App Move goals Data 2023, worked on this project to prepare trend analysis by using pandas, plotly, Regression Metrics, Linear Regression Model (Machine Learning) by using Scikit Learn & Sequential Model (Neural Networks), Regression Metrics, Predictions by using NumPy, Matplotlib, Tensorflow, Keras Python packages.
